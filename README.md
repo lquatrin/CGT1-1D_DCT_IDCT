@@ -5,3 +5,5 @@ CGT1-1D_DCT_IDCT
 - SCV was used to develop the interface of the application. (http://www-usr.inf.ufsm.br/~pozzer/scv/)
 - SCV was included in source code.
 - Developed on C++, using Microsoft Visual Studio 2010.
+
+- **Wave file reader is bugged.
